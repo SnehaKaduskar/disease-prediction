@@ -1,6 +1,4 @@
-Here's a sample README file for your GitHub repository on a disease prediction system that includes models for diabetes, heart disease, and Parkinson's disease:
 
----
 
 # Disease Prediction System
 
