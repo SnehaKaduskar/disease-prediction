@@ -196,6 +196,7 @@ if selected =="Parkisons Prediction":
             parkinsons_diagnosis = "The person has Parkinsons Disease"
         else:
             parkinsons_diagnosis = "The person does not have Parkinsons Disease"
+st.success(parkinsons_disease)
     
     
     
